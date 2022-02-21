@@ -1,0 +1,11 @@
+name: BasikFreeze
+author: Crazzoxx
+version: 1.0
+main: fr.crazzoxx.basikfreeze.BasikFreeze
+commands:
+  bfreeze:
+    aliases: [freeze,basikfreeze]
+    permission: basikfreeze.use
+    permission-message: "§cVous n'avez pas la permission !"
+    description: Main Command
+    usage: "Utilisation: /freeze playername"

@@ -1,0 +1,7 @@
+plugin:
+  enable: true
+message:
+  player-freeze: "&c&lUn modérateur vous a freeze !"
+  player-unfreeze: "&a&lVous n'êtes plus freeze"
+  staff-freeze-player: "&e&lVous avez freeze {player}"
+  staff-unfreeze-player: "&c&lVous avez unfreeze {player}"
